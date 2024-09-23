@@ -1,6 +1,9 @@
 👋 ola meu nome é marcela moura
+
 🧍‍♂️ estou no meu projeto alura
+
 👓 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
